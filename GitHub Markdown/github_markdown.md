@@ -13,15 +13,7 @@ This guide is mostly taken from u/darsaveli, with other input from myself. The o
 
 Contents include:
 
-- Headers
-- Font
-- Lists/bullets
-- Links
-- Link labels
-- Links to URLs
-- Inserting images/gifs using links
-- Tables
-- Align
+- [Headers](#headers)
 
 ___
 

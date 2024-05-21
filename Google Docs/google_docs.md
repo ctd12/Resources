@@ -1,5 +1,8 @@
+# Equation Editor
 
-Equation Editor
+Insert -> Equation
+
+### Helpful References:
 
 https://lukaskollmer.de/posts/google-docs-math-symbols/
 

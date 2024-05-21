@@ -13,7 +13,31 @@ This guide is mostly taken from u/darsaveli, with other input from myself. The o
 
 Contents include:
 
-- [Headers](#headers)
+- [Headers](#Headers)
+- [Font](#Font)
+- [Lists](#Lists)
+- [Links](#Links)
+- [Link Label](#Link-Label)
+- [Links to the URLs in a repo](#Links-to-the-URLs-in-a-repository)
+- [Inserting Images or Gifs using links](#Inserting-Images-or-Gifs-using-links)
+- [Resize images/gifs](#Resize-images/gifs)
+- [Linking image/gif](#Linking-image/gif)
+- [Tables](#Tables)
+- [Align](#Align)
+- [CheckBox](#CheckBox)
+- [Quoting Text](#Quoting-Text)
+- [Highlighting Text](#Text-highlighting)
+- [Horizontal Line](#Horizontal-Line)
+- [Line Break](#Break-between-lines)
+- [Multi-line text](#Multi-line-text)
+- [Invisible Comments](#Comments-in-Markdown)
+- [Emojis](#Emoji)
+- [Code Block](#Code-Block)
+- [Syntax](#Syntax-highlighting)
+- [Anchors](#Anchor)
+- [Mathematical Expressions](#MRender-mathematical-expressions-in-Markdown)
+- [Inline Expressions](#Writing-inline-expressions)
+
 
 ___
 

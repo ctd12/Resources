@@ -1,5 +1,6 @@
 # Tableau
-Tableau articles and guides to help build dashboards.
+
+
 
 # Contents
 

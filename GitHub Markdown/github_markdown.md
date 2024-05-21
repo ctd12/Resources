@@ -35,7 +35,7 @@ Contents include:
 - [Code Block](#Code-Block)
 - [Syntax](#Syntax-highlighting)
 - [Anchors](#Anchor)
-- [Mathematical Expressions](#MRender-mathematical-expressions-in-Markdown)
+- [Mathematical Expressions](#Render-mathematical-expressions-in-Markdown)
 - [Inline Expressions](#Writing-inline-expressions)
 
 

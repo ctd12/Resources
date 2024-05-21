@@ -11,7 +11,7 @@ You can use Markdown most places around GitHub:
 
 This guide is mostly taken from u/darsaveli, with other input from myself. The original guide can be found [here](https://github.com/darsaveli/Readme-Markdown-Syntax).
 
-Contents include:
+# Contents
 
 - [Headers](#Headers)
 - [Font](#Font)
@@ -473,7 +473,7 @@ In fact, each title is an anchor, similar to the HTML anchor (`#`), e.g.
 
 |Syntax|Look like|
 |---|---|
-|`[Back to top](#readme)`|[Back to top](#readme)|
+|`[Back to top](#readme)`|[Back to top](#contents)|
 
 Note that all the letters in the title are converted to **lowercase letters**.
 

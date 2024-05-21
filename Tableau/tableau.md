@@ -1,9 +1,5 @@
 # Tableau
 
-
-
-# Contents
-
 - [Pareto Chart](#pareto-chart)
 
 ## Pareto Chart

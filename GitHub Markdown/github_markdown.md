@@ -37,7 +37,8 @@ This guide is mostly taken from u/darsaveli, with other input from myself. The o
 - [Anchors](#Anchor)
 - [Mathematical Expressions](#Render-mathematical-expressions-in-Markdown)
 - [Inline Expressions](#Writing-inline-expressions)
-
+- [Collapsed Sections](#collapsed-sections)
+- [Diagrams](#diagrams)
 
 ___
 
@@ -541,7 +542,30 @@ You can add an image or a code block, too.
 
 </details>
 
+___
 
-diagrams
+### Diagrams
+
+You can create diagrams in Markdown using three different syntaxes: mermaid, geoJSON and topoJSON, and ASCII STL. Diagram rendering is available in GitHub Issues, GitHub Discussions, pull requests, wikis, and Markdown files.
+
+````git
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+````
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ___

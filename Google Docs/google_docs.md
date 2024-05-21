@@ -1,5 +1,7 @@
 # Google Docs
 
+# Contents
+
 - [Equation Editor](#equation-editor)
 - [Syntax Add-on](#syntax-add-on)
 

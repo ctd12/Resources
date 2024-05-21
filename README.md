@@ -1,2 +1,11 @@
 # Misc
-References and guide for various languages, platforms, and software including the Mac Terminal, Tableau, Google Docs, and the TI-89 calculator.
+
+Mac Terminal
+
+Google Docs
+
+Tableau
+
+TI-89
+
+GitHub markdown

@@ -20,8 +20,8 @@ This guide is mostly taken from u/darsaveli, with other input from myself. The o
 - [Link Label](#Link-Label)
 - [Links to the URLs in a repo](#Links-to-the-URLs-in-a-repository)
 - [Inserting Images or Gifs using links](#Inserting-Images-or-Gifs-using-links)
-- [Resize images/gifs](#Resize-images/gifs)
-- [Linking image/gif](#Linking-image/gif)
+- [Resize images/gifs](#Resize-images-and-gifs)
+- [Linking image/gif](#Linking-images-and-gifs)
 - [Tables](#Tables)
 - [Align](#Align)
 - [CheckBox](#CheckBox)
@@ -191,7 +191,7 @@ Image source can be either a location from the local machine or any valid image 
 ```
 ![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "Github logo") 
 
-### Resize images/Gifs
+### Resize Images and Gifs
 ```
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 ```
@@ -204,7 +204,7 @@ Other options to resize:
 
 ___
 
-### Linking Image/Gif
+### Linking Images and Gifs
 To open another webpage when image is clicked, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
 ```

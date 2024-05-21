@@ -502,7 +502,46 @@ This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
 ___
 
+### Collapsed Sections
 
-(https://docs.github.com/en/enterprise-server@3.9/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
+You can temporarily obscure sections of your Markdown by creating a collapsed section that the reader can choose to expand. 
+
+````git
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```sql
+   SELECT *
+   FROM table
+```
+````
+
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```sql
+   SELECT *
+   FROM table
+```
+
+</details>
+
+
+diagrams
 
 ___

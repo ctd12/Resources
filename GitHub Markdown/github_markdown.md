@@ -473,7 +473,7 @@ In fact, each title is an anchor, similar to the HTML anchor (`#`), e.g.
 
 |Syntax|Look like|
 |---|---|
-|`[Back to top](#readme)`|[Back to top](#contents)|
+|`[Back to Contents](#contents)`|[Back to Contents](#contents)|
 
 Note that all the letters in the title are converted to **lowercase letters**.
 

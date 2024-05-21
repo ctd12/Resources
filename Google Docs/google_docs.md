@@ -1,7 +1,7 @@
 # Google Docs
 
 - [Equation Editor](#equation-editor)
-- Syntax Add-on
+- [Syntax Add-on](#syntax-add-on)
 
 ## Equation Editor
 
@@ -14,8 +14,22 @@ Insert -> Equation
 
 **Other syntax not listed in the article above:**
 
-- Binomial distribution: \choose (n total objects choose p)
+- Binomial distribution (n total objects choose p)
+  - \choose
+```math
+10\choose6
+```
+- Line over a number or letter to show a mean, or show a complement in probability
+  - \overline
+```math
+\overline3
+```
+```math
+\overline A
+```
 
-Overline: line over a number of letter \overline
+## Syntax Add-on
 
-https://github.com/code-syntax-addon/code-syntax
+**Google Docs/Slides Add-On for Syntax Highlighting** [[Repo](https://github.com/code-syntax-addon/code-syntax)]
+
+- Add-on for Google Docs and Slides to highlight code segments and code spans.

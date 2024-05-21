@@ -1,7 +1,7 @@
 # Tableau
 Tableau articles and guides to help build dashboards.
 
-# What Does This Repository Have?
+# Contents
 
 - [Pareto Chart](#pareto-chart)
 

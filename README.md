@@ -1,4 +1,4 @@
-# Misc
+# Miscellaneous References
 
 A collection of documentation, references, and guides for various technologies that I frequently use.
 

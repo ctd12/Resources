@@ -17,3 +17,5 @@ Show the first value for every month: https://community.tableau.com/s/question/0
 Divide a filtered count of one column with the total number of records of the same column: https://community.tableau.com/s/question/0D54T00000C6en7SAB/divide-a-filtered-count-of-one-column-with-the-total-number-of-records-of-the-same-column
 
 Mark Label: How to show mark labels for every nth data point: https://community.tableau.com/s/question/0D54T00000C5sKoSAJ/mark-label-how-to-show-mark-labels-for-every-nth-data-point
+
+Sets for Top N and Others https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_topn.htm

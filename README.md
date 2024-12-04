@@ -1,6 +1,6 @@
 # Miscellaneous References
 
-A collection of documentation, references, and guides for various technologies that I frequently use.
+A collection of documentation, references, and guides for various languages/technologies that I frequently use.
 
 Mostly stuff that I would normally just Google, but figured it would be beneficial to collect it all in one space.
 
@@ -10,4 +10,3 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 - Google Docs
 - Mac Terminal
 - Tableau
-- TI-89 Graphing Calculator

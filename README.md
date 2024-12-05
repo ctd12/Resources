@@ -4,7 +4,7 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 
 ## Contents
 
-- GitHub Markdown
+- [GitHub Markdown](github_markdown.md)
 - Mac Terminal
 - Python
 - R

@@ -4,10 +4,10 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 
 ## Contents
 
-- [Excel & VBA](excel_and_vba.md)
-- [GitHub Markdown](github_markdown.md)
-- [Mac Terminal](mac_terminal.md)
-- [Python](python.md)
-- [R](r.md)
-- [SQL](sql.md)
-- [Tableau](tableau.md)
+- [Excel & VBA](Content/excel_and_vba.md)
+- [GitHub Markdown](Content/github_markdown.md)
+- [Mac Terminal](Content/mac_terminal.md)
+- [Python](Content/python.md)
+- [R](Content/r.md)
+- [SQL](Content/sql.md)
+- [Tableau](Content/tableau.md)

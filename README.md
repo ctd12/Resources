@@ -2,7 +2,7 @@ A collection of documentation, references, and guides for various languages/tech
 
 Mostly stuff that I would normally just Google, but figured it would be beneficial to collect it all in one space.
 
-# Contents
+## Contents
 
 - GitHub Markdown
 - Mac Terminal

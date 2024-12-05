@@ -1,7 +1,8 @@
-## SQL
+<h1 align="center">SQL</h1>
+
 Educational links to articles and guides on SQL. Queries and notation commonly needed are in the files above.
 
-## What Does This Repository Have?
+## What Does This Guide Have?
 
 * [Cross and Outer Apply](#cross-and-outer-apply)
 * [Information Schema](#information-schema)

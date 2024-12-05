@@ -1,4 +1,4 @@
-# Python
+<h1 align="center">Python</h1>
 
 Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
 

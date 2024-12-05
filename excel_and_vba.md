@@ -6,3 +6,4 @@ VBA Guide To Referencing Worksheet Tabs https://www.thespreadsheetguru.com/works
 
 How to Use an Excel Table Reference - 10 Methods https://www.exceldemy.com/learn-excel/table/formula/structured-reference/
 
+TEXTJOIN in Excel: Mastering Text Concatenation https://professor-excel.com/textjoin-in-excel-mastering-text-concatenation/

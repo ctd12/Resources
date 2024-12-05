@@ -4,6 +4,7 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 
 ## Contents
 
+- [Excel & VBA](excel_and_vba.md)
 - [GitHub Markdown](github_markdown.md)
 - [Mac Terminal](mac_terminal.md)
 - [Python](python.md)

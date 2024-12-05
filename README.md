@@ -4,9 +4,8 @@ A collection of documentation, references, and guides for various languages/tech
 
 Mostly stuff that I would normally just Google, but figured it would be beneficial to collect it all in one space.
 
-# What Does This Repository Have?
-
 - GitHub Markdown
-- Google Docs
 - Mac Terminal
+- Python
+- R
 - Tableau

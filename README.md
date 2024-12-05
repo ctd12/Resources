@@ -8,4 +8,5 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 - [Mac Terminal](mac_terminal.md)
 - [Python](python.md)
 - [R](r.md)
+- [SQL](sql.md)
 - [Tableau](tableau.md)

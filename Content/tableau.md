@@ -1,4 +1,4 @@
-# Tableau
+<h1 align="center">Tableau</h1>
 
 - [Pareto Chart](#pareto-chart)
 

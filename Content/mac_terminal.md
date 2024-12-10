@@ -1,3 +1,5 @@
+<h1 align="center">Terminal on Mac</h1>
+
 A zsh (or Bash) command typically follows this pattern: 
 
 ```zsh

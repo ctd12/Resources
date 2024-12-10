@@ -1,6 +1,6 @@
 <h1 align="center">SQL</h1>
 
-Educational links to articles and guides on SQL. Queries and notation commonly needed are in the files above.
+Educational links to articles and guides on SQL.
 
 ## What Does This Guide Have?
 

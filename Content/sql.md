@@ -53,7 +53,7 @@ Educational links to articles and guides on SQL.
   * LAG
   * LEAD
  
-The file [window_functions.md](Resources/sql_files/window_functions.md) contains a short writeup demonstrating the functions explained in the article.
+The file [window_functions.md](/sql_files/window_functions.md) contains a short writeup demonstrating the functions explained in the article.
 
 # Files
 [adding_columns.md](sql_files/adding_columns.md)

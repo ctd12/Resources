@@ -2,6 +2,8 @@
 
 Educational links to articles and guides on SQL.
 
+SQL is a standard language for storing, manipulating and retrieving data in databases.
+
 ## What Does This Guide Have?
 
 * [Cross and Outer Apply](#cross-and-outer-apply)

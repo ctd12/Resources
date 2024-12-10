@@ -1,4 +1,4 @@
-## R
+<h1 align="center">R</h1>
 
 References and guides for various topics in R.
 

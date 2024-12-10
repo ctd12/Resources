@@ -2,7 +2,7 @@
 
 References and guides for various topics in R.
 
-## What's in this Repository?
+## What Does This Guide Have?
 
 * [Date Formats](#date-formats)
 * [ggplot2](#ggplot2)

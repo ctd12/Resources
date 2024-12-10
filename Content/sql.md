@@ -56,17 +56,17 @@ Educational links to articles and guides on SQL.
 The file [window_functions.md](/sql_files/window_functions.md) contains a short writeup demonstrating the functions explained in the article.
 
 # Files
-[adding_columns.md](sql_files/adding_columns.md)
+[adding_columns.md](/sql_files/adding_columns.md)
 * How to add a column to an existing table.
 
-[dates.md](sql_files/dates.md)
+[dates.md](/sql_files/dates.md)
 * Select statements to reference difference dates in time, such as the first date of last month.
 
-[indexing.md](sql_files/indexing.md)
+[indexing.md](/sql_files/indexing.md)
 * Basic overview of indexes; what they are and how to create/delete them from a table.
 
-[query_template.sql](sql_files/query_template.sql)
+[query_template.sql](/sql_files/query_template.sql)
 * Template for creating a query; author, tables used, purpose, revision history, etc.
 
-[window_functions.md](sql_files/window_functions.md)
+[window_functions.md](/sql_files/window_functions.md)
 * Overview of basic window functions.

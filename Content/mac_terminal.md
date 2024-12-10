@@ -1,5 +1,9 @@
 <h1 align="center">Terminal on Mac</h1>
 
+* https://www.makeuseof.com/tag/beginners-guide-mac-terminal/
+* https://www.library.unlv.edu/sites/default/files/inline-images/wRkOVKa8PENf9196S4Q6Kpjbo7QwuzviXOI20clS9QHEPtJQY6.pdf
+* https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/
+
 A zsh (or Bash) command typically follows this pattern: 
 
 ```zsh
@@ -78,10 +82,3 @@ To get out of a manual, simply press Q.
 * Capitalization matters when calling folders/files
 * You can drag and drop folders into Terminal instead of typing out the filepath
 * Using the up arrow will recall commands. Press it once for the previous command, twice for the command before the previous, etc.
-
-## Notes
-
-References:
-* https://www.makeuseof.com/tag/beginners-guide-mac-terminal/
-* https://www.library.unlv.edu/sites/default/files/inline-images/wRkOVKa8PENf9196S4Q6Kpjbo7QwuzviXOI20clS9QHEPtJQY6.pdf
-* https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/

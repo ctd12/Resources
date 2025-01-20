@@ -21,8 +21,7 @@ This Excel module links Excel to SAP databases.
 ## Excel
 
 **How to make complex formulas easier to read with line breaks in Excel (both Mac and Windows commands)** [[](https://spreadsheetweb.com/make-complex-formulas-easier-to-read-with-line-breaks-in-excel/)]
-
-
+* Shortcut to break Excel formulas into multiple lines, making them easier to read/understand.
 
 **How to Use an Excel Table Reference - 10 Methods** [[](https://www.exceldemy.com/learn-excel/table/formula/structured-reference/)]
 

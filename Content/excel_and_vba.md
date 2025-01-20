@@ -20,17 +20,17 @@ This Excel module links Excel to SAP databases.
 
 ## Excel
 
-How to Use an Excel Table Reference - 10 Methods
+**How to make complex formulas easier to read with line breaks in Excel (both Mac and Windows commands)** [[](https://spreadsheetweb.com/make-complex-formulas-easier-to-read-with-line-breaks-in-excel/)]
 
-https://www.exceldemy.com/learn-excel/table/formula/structured-reference/
 
-TEXTJOIN in Excel: Mastering Text Concatenation
 
-https://professor-excel.com/textjoin-in-excel-mastering-text-concatenation/
+**How to Use an Excel Table Reference - 10 Methods** [[](https://www.exceldemy.com/learn-excel/table/formula/structured-reference/)]
 
-How to make complex formulas easier to read with line breaks in Excel (both Mac and Windows commands)
 
-https://spreadsheetweb.com/make-complex-formulas-easier-to-read-with-line-breaks-in-excel/
+
+**TEXTJOIN in Excel: Mastering Text Concatenation** [[](https://professor-excel.com/textjoin-in-excel-mastering-text-concatenation/)]
+
+
 
 ## VBA
 

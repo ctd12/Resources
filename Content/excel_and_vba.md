@@ -13,7 +13,7 @@ References and guides for various topics in Excel and VBA.
 This Excel module links Excel to SAP databases.
 
 **Analysis for Office Variables and Filters via VBA** [[Blog](https://community.sap.com/t5/technology-blogs-by-members/analysis-for-office-variables-and-filters-via-vba/ba-p/13320762)]
-* Guide on how to extract and manipulate variables and filters in Analysis queries using VBA
+* Guide on how to extract and manipulate variables and filters in Analysis queries using VBA.
 
 **Excel add in Load at Startup fix** [[Stack Overflow](https://stackoverflow.com/questions/48191685/excel-com-add-is-not-loading-during-startup-and-have-to-add-it-manually)]
 * Sometimes even if you include the Analysis module, or any module, in your Excel taskbar it won't show as being available, even when restarting Excel or your machine. This is a solution that worked for me on my HP laptop.

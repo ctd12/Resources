@@ -20,16 +20,14 @@ This Excel module links Excel to SAP databases.
 
 ## Excel
 
-**How to make complex formulas easier to read with line breaks in Excel (both Mac and Windows commands)** [[](https://spreadsheetweb.com/make-complex-formulas-easier-to-read-with-line-breaks-in-excel/)]
+**How to make complex formulas easier to read with line breaks in Excel (both Mac and Windows commands)** [[Article](https://spreadsheetweb.com/make-complex-formulas-easier-to-read-with-line-breaks-in-excel/)]
 * Shortcut to break Excel formulas into multiple lines, making them easier to read/understand.
 
-**How to Use an Excel Table Reference - 10 Methods** [[](https://www.exceldemy.com/learn-excel/table/formula/structured-reference/)]
+**How to Use an Excel Table Reference - 10 Methods** [[Article](https://www.exceldemy.com/learn-excel/table/formula/structured-reference/)]
+* How to utilize references to cells, columns, rows, and more in an Excel table.
 
-
-
-**TEXTJOIN in Excel: Mastering Text Concatenation** [[](https://professor-excel.com/textjoin-in-excel-mastering-text-concatenation/)]
-
-
+**TEXTJOIN in Excel: Mastering Text Concatenation** [[Article](https://professor-excel.com/textjoin-in-excel-mastering-text-concatenation/)]
+* Explanation of the TEXTJOIN function. It merges text across cells using delimeters/criteria to identify and join text.
 
 ## VBA
 

@@ -4,9 +4,9 @@ References and guides for various topics in Excel and VBA.
 
 ## What Does This Guide Have?
 
-- Analysis for Office
-- Excel
-- VBA
+- [Analysis for Office]
+- [Excel]
+- [VBA]
 
 Analysis for Office VBA syntax
 

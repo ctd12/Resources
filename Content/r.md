@@ -1,4 +1,4 @@
-<h1 align="center">R</h1>
+<h1 align="center">R Programming Language</h1>
 
 References and guides for various topics in R.
 

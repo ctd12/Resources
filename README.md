@@ -15,5 +15,4 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 
 ### Miscellaneous Resources
 
-https://www.intowindows.com/how-to-make-windows-11-taskbar-black-without-dark-mode/
-
+How To Make Windows 11 Taskbar Black (Without Dark Mode) [[Article](https://www.intowindows.com/how-to-make-windows-11-taskbar-black-without-dark-mode/)]

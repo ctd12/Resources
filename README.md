@@ -11,3 +11,9 @@ Mostly stuff that I would normally just Google, but figured it would be benefici
 - [R](Content/r.md)
 - [SQL](Content/sql.md)
 - [Tableau](Content/tableau.md)
+
+
+### Miscellaneous Resources
+
+https://www.intowindows.com/how-to-make-windows-11-taskbar-black-without-dark-mode/
+

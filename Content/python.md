@@ -3,8 +3,8 @@
 ## What Does This Guide Have?
 
 - [Conda](#conda)
-- Machine Learning
--   [Natural Language Processing](#natural-language-processing)
+- [Machine Learning](#machine-learning)
+  - [Natural Language Processing](#natural-language-processing)
 
 ## Conda
 
@@ -14,11 +14,14 @@ I use Conda to manage my Python environments and packages.
 
 **Installing packages using Conda** [[Installing Packages](https://www.tutorialspoint.com/how-do-i-install-python-packages-in-anaconda)]
 
+## Machine Learning
+
+### Natural Language Processing
+
+Beginner's Intro to NLP [[Website](https://nlpbegin.com)]
+- Website that gives you the basics of NLP, what it is, what packages to use, why it's used, etc.
+
 Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
-
-## Natural Language Processing
-
-Guide https://nlpbegin.com
 
 Classes/Objects https://www.w3schools.com/python/python_classes.asp
 

@@ -28,9 +28,10 @@ Beginner's Intro to NLP [[Website](https://nlpbegin.com)]
 ## Visual Studio Code
 
 **Deleting Variables** [[Stack Overflow](https://stackoverflow.com/questions/60219691/clear-variables-vs-code)]
+- Simple explanations on how to delete variables in the script or interavtice window
 
-Resolving errors running Jupyter notebooks in VS Code https://stackoverflow.com/questions/53244986/running-cells-requires-jupyter-notebooks-to-be-installed-error-in-vs-code
-
+**Resolving errors running Jupyter notebooks** [[Stack Overflow](https://stackoverflow.com/questions/53244986/running-cells-requires-jupyter-notebooks-to-be-installed-error-in-vs-code)]
+- Helpful trouble shooting methods if Jupyter notebooks are giving errors when you try and run them in VS Code.
 
 
 

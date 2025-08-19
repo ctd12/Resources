@@ -31,4 +31,8 @@ PySpark https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm
 
 List all installed packages and versions in Python - terminal commands https://stackoverflow.com/questions/12939975/how-to-list-all-installed-packages-and-their-versions-in-python
 
+**VS CODE**
+
 Clear a variable in VS Code https://stackoverflow.com/questions/60219691/clear-variables-vs-code
+
+Resolving errors running Jupyter notebooks in VS Code https://stackoverflow.com/questions/53244986/running-cells-requires-jupyter-notebooks-to-be-installed-error-in-vs-code

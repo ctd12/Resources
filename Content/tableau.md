@@ -1,5 +1,7 @@
 <h1 align="center">Tableau</h1>
 
+## What Does This Guide Have?
+
 - [Pareto Chart](#pareto-chart)
 
 ## Pareto Chart
